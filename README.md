@@ -81,7 +81,7 @@ Se incluye un archivo de prueba en:
 
 Y el archivo en .exe para poder realizar la prueba o el uso de la aplicación en:
 
-**ejemplo/unificar_excel.py**
+**ejemplo/unificar_excel.exe**
 
 ---
 
