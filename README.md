@@ -65,7 +65,7 @@ Este sistema permite:
 1. Ejecutar la aplicación:
 ```bash
 python src/main.py
-
+```
 2.Cargar un archivo Excel desde:
 -Drag & Drop
 -Selección manual
