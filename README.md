@@ -96,5 +96,4 @@ Implementación de testing automatizado
 
 ## 👤 **Autor**
 
-Agustín Cardozo
-Estudiante de Ingeniería en Sistemas de Información (UTN)
+Agustín Cardozo - Estudiante de Ingeniería en Sistemas de Información (UTN)
