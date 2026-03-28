@@ -77,15 +77,15 @@ El sistema generará automáticamente un nuevo archivo con el reporte procesado.
 
 Se incluye un archivo de prueba en:
 
-ejemplo/registro_ejemplo.xlsx
+**ejemplo/registro_ejemplo.xlsx**
 
 Y el archivo en .exe para poder realizar la prueba o el uso de la aplicación en:
 
-ejemplo/unificar_excel.py
+**ejemplo/unificar_excel.py**
 
 ---
 
-##🔧 **Mejoras futuras**
+## 🔧 **Mejoras futuras**
 Eliminación de variables globales
 Manejo avanzado de errores
 Configuración flexible del formato de entrada
@@ -94,7 +94,7 @@ Implementación de testing automatizado
 
 ---
 
-##👤 **Autor**
+## 👤 **Autor**
 
 Agustín Cardozo
 Estudiante de Ingeniería en Sistemas de Información (UTN)
