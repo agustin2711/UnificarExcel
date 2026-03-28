@@ -52,6 +52,9 @@ Este sistema permite:
 ### Interfaz de usuario
 ![Interfaz](assets/interfaz.png)
 
+### Registro original
+![Registro](assets/registro.png)
+
 ### Resultado generado
 ![Resultado](assets/resultado.png)
 
@@ -75,6 +78,10 @@ El sistema generará automáticamente un nuevo archivo con el reporte procesado.
 Se incluye un archivo de prueba en:
 
 ejemplo/registro_ejemplo.xlsx
+
+Y el archivo en .exe para poder realizar la prueba o el uso de la aplicación en:
+
+ejemplo/unificar_excel.py
 
 ---
 
